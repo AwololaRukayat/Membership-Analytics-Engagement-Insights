@@ -51,10 +51,12 @@ Microsoft Excel was used for visualization. PivotTable to summarize and charts t
 
 ## Dashboard 
 ### Overview Page
+![image alt] (https://github.com/AwololaRukayat/Membership-Analytics-Engagement-Insights/blob/aaf2b92db06c3f1e7eeee3cef89848a3cfd9c11b/Overview.png)
 Revenue & Growth
 RevUp Fitness generated a total of ₦68.87M in revenue between 2022 and 2025, growing sharply from ₦10.80M in 2022 to a peak of ₦23.96M in 2023, before declining slightly to ₦22.12M in 2024. This trajectory closely tracks membership acquisition, 2023 recorded the highest number of new sign-ups (692) against a low of 308 in 2022, explaining that year's revenue spike. However, member growth continued into 2024 without revenue scaling proportionally alongside it, meaning new members were not converting into long-term. This matters because it signals retention concern raised initially, acquisition alone will not sustain growth if the members being acquired don't stay.
 
 ## Engagement Page 
+![image alt] (https://github.com/AwololaRukayat/Membership-Analytics-Engagement-Insights/blob/aaf2b92db06c3f1e7eeee3cef89848a3cfd9c11b/Engagment.png)
 Retention Rate
 Across the full membership base of 1,998 members, an average of 1,323 members (66%) were retained at the end of each year. This falls within the fitness industry's typical historical range of 60–70% annual retention. This places RevUp Fitness within industry norms rather than in crisis but also confirms it is not outperforming its sector, meaning there is genuine, addressable room to improve. 
 Retention by membership type reveals an important distinction: Premium members have the most members (812) and highest retention (41%) while Elite has (199) members with the least retention (10%). The retention for elite is likely due to its smaller base size not a loyalty gap, and highlights the importance of distinguishing retention rate from retention volume before making strategic decisions.
@@ -64,6 +66,7 @@ Engagement by Generation
 Gen Z leads both visit frequency (2,425 visits) and session duration (107 minutes), followed by Millennials (2,246 visits, 106 minutes). Gen X shows the lowest session duration (96 minutes). Gen Z and Millennials represent the network's most engaged generational base, making them a high potential segment for retention focused marketing, personalization, flexibility, and understanding what drives their engagement could inform strategies to lift engagement among less active generational segments.
 
 ## Discount Impact Page
+![image alt](https://github.com/AwololaRukayat/Membership-Analytics-Engagement-Insights/blob/aaf2b92db06c3f1e7eeee3cef89848a3cfd9c11b/Discount.png)
 The total amount lost to dicount is ₦4.25M, Student discount  drives the highest revenue loss (₦2.13M), followed by Loyalty (₦1.45M) with applied rates of Student 15%, Loyalty 10%, Promo 5%, and None 0%. The Student discount carries both the highest individual rate and the highest total revenue impact, meaning its cost is driven by a combination of depth and volume, not one factor alone. Loyalty members are the most loyal with the longest tenure (646 days), followed by members with no discount (542 days). Student discounted members show the shortest tenure (515 days) which is the opposite of what well discounted members should produce, and suggests the Student discount may be attracting less committed members. Also discount doesn’t drive growth as most members (42%) are non discounted members.
 Service Engagement
 Personal Training is the leading engagement driver (532 members), followed by members using both Personal and Group Classes (502 members). Members using neither services (464) showed that they may be engaged with the facility itself and not the services i.e their loyalty isn’t from accountability from a trainer or group classes. Priority should be on understanding why they prefer independent gym use
